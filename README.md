@@ -3,9 +3,8 @@ Check my work on <a href="https://eduhrodrigues.github.io/Pretty-PetShop/"> gith
 <img src="assets/darkShineSkyThemeJPEG.jpeg" alt="capa da página Doctor Care."><br><br>
 <br>
 
-# Desafio Rocketseat NLW Return - Trilha Origin
-## Projeto: Pretty PetShop
-Meu projeto é um modelo mobile first de site adaptável para diversos nichos de mercado.
+# Projeto: Pretty PetShop<br><br>
+Este projeto é um modelo mobile first de site adaptável para diversos nichos de mercado.
 Simulando uma página de pet shop, o Pretty PetShop conta com soluções diferenciadas.
 
 O Catálogo Online consiste numa Google Planilha pública (somente leitura para o usuário), onde fica o catálogo de produtos; online e facilmente editável, com a foto, a descrição e um link, que leva até o canal de vendas no Whastapp, onde um bot reconhece o produto, adiciona num novo pedido e segue o atendimento.
