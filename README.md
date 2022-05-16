@@ -1,4 +1,4 @@
-Check my work on <a href="https://eduhrodrigues.github.io/Pretty-PetShop/"> github.io/Pretty-PetShop
+Check my work on <a href="https://eduhrodrigues.github.io/Pretty-PetShop/"> github.io/Pretty-PetShop </a>
 
 <img src="assets/darkShineSkyThemeJPEG.jpeg" alt="capa da página Doctor Care."><br><br>
 <br>
@@ -19,4 +19,4 @@ O Pretty PetShop conta ainda com 4 temas extras de cores diferentes para diverso
 
 Versões Desktop e Tablet disponíveis em breve!
 
-Veja como ficou aqui: <a href="https://eduhrodrigues.github.io/Pretty-PetShop/"> github.io/Pretty-PetShop
+Veja como ficou aqui: <a href="https://eduhrodrigues.github.io/Pretty-PetShop/"> github.io/Pretty-PetShop </a>
