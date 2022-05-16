@@ -1,6 +1,6 @@
-Check my work on <a href="https://eduhrodrigues.github.io/Doctor-Care/"> github.io/Doctor-Care
+Check my work on <a href="https://eduhrodrigues.github.io/Pretty-PetShop/"> github.io/Pretty-PetShop
 
-<img src="assets/coverPNG.png" alt="capa da página Doctor Care."><br><br>
+<img src="assets/darkShineSkyThemeJPEG.jpeg" alt="capa da página Doctor Care."><br><br>
 <br>
 
 # Desafio Rocketseat NLW Return - Trilha Origin
@@ -17,4 +17,6 @@ O Bot PetShop é um bot de atendimento web que, faz o primeiro atendimento, tira
 
 O Pretty PetShop conta ainda com 4 temas extras de cores diferentes para diversos gostos!
 
-Veja como ficou aqui: <a href="https://eduhrodrigues.github.io/Doctor-Care/"> github.io/Doctor-Care
+Versões Desktop e Tablet disponíveis em breve!
+
+Veja como ficou aqui: <a href="https://eduhrodrigues.github.io/Pretty-PetShop/"> github.io/Pretty-PetShop
