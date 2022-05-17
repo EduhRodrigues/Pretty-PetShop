@@ -1,9 +1,32 @@
 window.addEventListener("scroll", onScroll)
 
+msgProject()
+
 onScroll()
 function onScroll() {
+  
   showNavOnScroll()
   showBackToTopButtonOnScroll()
+}
+
+function msgProject() {
+  alert (`  
+  Este projeto é um modelo de site responsivo e personalizável a diversos nichos de mercado.
+  Simulando uma página de pet shop, o Pretty PetShop conta com soluções diferenciadas.
+  
+  O Catálogo Online consiste numa Google Planilha pública (somente leitura para o usuário), onde fica o catálogo de produtos. 
+  Este catálogo é online e facilmente editável. Tem as foto, as descrições e os links; que levam até o canal de vendas no Whastapp.
+  Um bot no Whatsapp reconhece o produto, adiciona num novo pedido e segue o atendimento.
+  
+  Produtos em Destaque é um card, incorporando o Catálogo Online.
+  Os produtos da planilha serão exibidos neste card com scrolling.
+  
+  O Bot PetShop é um bot de atendimento web.
+  Este web bot faz o primeiro atendimento, tira dúvidas, e direciona o usuário para o Catálogo Online completo ou diretamente para o Whastapp bot.
+  
+  O Pretty PetShop conta ainda com 4 temas extras de cores diferentes para diversos gostos!
+  No final da página.
+  `)
 }
 
 function showNavOnScroll() {
