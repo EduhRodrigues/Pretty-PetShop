@@ -491,7 +491,7 @@ span {
   text-transform: uppercase;
   text-decoration: none;
   display: flex;
-  margin-top: 4.8rem;
+  
   margin-bottom: 8rem;
   margin-inline: auto;
   padding: 1.6rem 1.6rem;
@@ -514,22 +514,23 @@ span {
 /*==================== FOOTER ====================*/
 footer {
   background: var(--primary-color);
-  line-height: 2rem;
   width: 100%;
   min-width: 40rem;
-  height: 16.5rem;
+  height: 15.2rem;
   padding-top: .4rem;
 }
 
 footer p {
   margin-bottom: 1rem;
   color: var(--paragraph);
+  font-size: 1.4rem;
+  line-height: 1.5rem;
 }
 
 #backToTopButton {
   position: fixed;
-  right: 5rem;
-  bottom: 14rem;
+  right: 4rem;
+  bottom: 12.8rem;
   opacity: 0;
   visibility: hidden;
   transform: translateY(100%);

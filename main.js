@@ -394,6 +394,8 @@ ScrollReveal({
         document.querySelector(".openMenuColor3").style.stroke = "#fff";
         document.querySelector("#navigation").style.backgroundColor = "#c000c0";
 
+        
+
       function HelloPinkLolThemeOnScroll () {
       if (scrollY > 0) {
         document.querySelector(".openMenuColor1").style.stroke = "#fff";
