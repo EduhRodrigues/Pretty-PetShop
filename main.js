@@ -46,7 +46,6 @@ function showBackToTopButtonOnScroll() {
 }
 
 function openMenu() {
-  const document = document.querySelector('#document')
   document.body.classList.add('menu-expanded')
 }
 
