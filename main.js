@@ -31,9 +31,9 @@ function msgProject() {
 function showNavOnScroll() {
   const navigation = document.querySelector('#navigation')
   if (scrollY > 0) {
-    navigation.classList.add('nav.scrollDefaultTheme')
+    navigation.classList.add('scrollDefaultTheme')
   } else {
-    navigation.classList.remove('nav.scrollDefaultTheme')
+    navigation.classList.remove('scrollDefaultTheme')
   }
 }
 
